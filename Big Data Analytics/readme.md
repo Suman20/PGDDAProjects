@@ -1,0 +1,1 @@
+After analysing 80 million Amazon reviews about eBooks, movies, TV Shows and similar such product categories in entertainment industry, recommended a media company to invest in the most customer satisfactory product category. In this process I have used AWS setups, R studio and Spark.
