@@ -1,8 +1,8 @@
 ######## Setting Environment ##########################################################
-Sys.setenv("AWS_ACCESS_KEY_ID" = "AKIAJRV3NVO6XAYZPXTA",
+Sys.setenv("AWS_ACCESS_KEY_ID" = "XXXXXX",
            "AWS_SECRET_ACCESS_KEY" =
-             "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",
-           "AWS_DEFAULT_REGION" = "us-west-2")
+             "XXXXX",
+           "AWS_DEFAULT_REGION" = "XXXXX")
 
 library(ggplot2)
 library(SparkR)
